@@ -126,7 +126,7 @@ export function NikeCard(props) {
               <img src={AirJordanImg} />
             </Shoes>
           </ShoesWrapper>
-          <NikeText>NIKE AIR</NikeText>
+          <NikeText>fahad</NikeText>
         </TopContainer>
         <BottomContainer>
           <ShoesDetails />
